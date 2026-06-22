@@ -1,7 +1,6 @@
 # JavaScript Promises and Async/Await
 
 **Date:** 2026-02-01
-
 ---
 
 ## Learning Log: Mastering JavaScript Promises & Async/Await!
